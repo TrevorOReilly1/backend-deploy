@@ -107,6 +107,7 @@ MAILERS = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5174",
     "http://127.0.0.1:5174",
+"https://isqa-4900-front-end-assignment-1-in-seven.vercel.app",
 ]
 
 CORS_ALLOW_CREDENTIALS = True
